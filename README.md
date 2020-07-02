@@ -18,3 +18,5 @@ transformer-based algorithm.
 A TFBertForSequenceClassification model from Huggingface is used for the task.  
 
 A training set, and a validation set is created, also F1 score is calculated for the Training Data file.
+
+The results from the model is saved in Output.xlsx
