@@ -1,4 +1,4 @@
-# ClassifyCompaniesByIndustry
+# Classify Companies in to Various Industry based on business description
 
 Subject: Industry Classification of publicly listed companies based on business description
 
