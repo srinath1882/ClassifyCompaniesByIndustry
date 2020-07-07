@@ -1,4 +1,4 @@
-# Classify Companies in to Various Industry based on business description
+# Classify Companies in to Various Industry based on business description using Transformer algorithm
 
 Subject: Industry Classification of publicly listed companies based on business description
 
